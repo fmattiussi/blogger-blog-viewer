@@ -51,7 +51,7 @@ class PostController: UIViewController {
     var postId: String? //verrà fornito dal viewcontroller precedente
     
     //MARK: Da personalizzare
-    let apiKey = "AIzaSyDLIB_nR1lAtnsqRYXnfWk4DR6hoi5MeXM"
+    let apiKey = ""
     
     var blogId = "8901166936755470190"
     
