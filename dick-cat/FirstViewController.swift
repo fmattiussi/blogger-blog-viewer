@@ -53,7 +53,7 @@ class FirstViewController: UIViewController, UICollectionViewDelegate, UICollect
 
     //MARK: Da personalizzare
     
-    let apiKey = "AIzaSyDLIB_nR1lAtnsqRYXnfWk4DR6hoi5MeXM"
+    let apiKey = ""
     
     let blogId = "8901166936755470190"
     
